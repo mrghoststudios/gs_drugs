@@ -2,6 +2,11 @@
 
 A lightweight and immersive smoking script for FiveM, supporting both ESX and QBCore. Players can smoke a bong or a cigarette with smooth animations and effects.
 
+## Credits
+DC Customz
+- Bong Prop/Model
+- Bong Animation
+
 ## Features
 - **Bong Smoking**: Experience psychedelic effects.
 - **Cigarette Smoking**: Relax with a casual smoke.
